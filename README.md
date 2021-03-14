@@ -1,6 +1,7 @@
 # laser500floppyemu  
 
 ### URL collection  
+[Laser 350/500/700 main unit manual](https://github.com/nippur72/laser500emu/blob/gh-pages/docs/main_unit_manual.pdf)  
 [Laser500 Emulator](https://github.com/nippur72/laser500emu)  
 [Laser500 Docs](https://github.com/Bonstra/laser500-doc)  
 [Laser500 Floppy.txt](https://github.com/Bonstra/laser500-doc/blob/master/floppy.txt)  
