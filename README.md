@@ -9,6 +9,7 @@
 [Laser500 Tape DOS bootstrap](https://github.com/nippur72/laser500emu/tree/gh-pages/software/tape-dos-bootstraper)  
 
 [Any info on Video Technology Laser 500 computer?](https://atariage.com/forums/topic/187667-any-info-on-video-technology-laser-500-computer/)
+
 [Laser 500 core](https://www.atari-forum.com/viewtopic.php?t=36757)
 
 ### TAPE DOS bootstrap  
